@@ -4,7 +4,7 @@ A Simple Bot that can be used as a personal assistant for forwarding any message
 
 ### Deploying on Heroku:
 
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-0/SimpleForwardBot-Tg"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>>
+<a href="https://heroku.com/deploy?template=https://github.com/Snowball-0/SimpleForwardBot-Tg"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 ### Deploy To Render              
 
